@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Do Not Join PSNI",
+    "description": "",
+    "home_page_url": "https://dy77phgmfp-code.github.io/donotjoinpsni",
+    "feed_url": "https://dy77phgmfp-code.github.io/donotjoinpsni/feed.json",
+    "user_comment": "",
+    "icon": "https://dy77phgmfp-code.github.io/donotjoinpsni/media/website/DNJRUC.png",
+    "author": {
+        "name": "Admin"
+    },
+    "items": [
+    ]
+}
