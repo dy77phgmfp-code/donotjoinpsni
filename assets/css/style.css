@@ -8,7 +8,7 @@
 }
 
 [class*="__button--prev"] {
-  background-image: url('../../media/files/down.png') !important;
+  background-image: url('../../media/files/Down.png') !important;
 }
 
 [class*="__button--next"] {
