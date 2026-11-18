@@ -37,7 +37,7 @@ function initEmblaCarousel(rootSelector, userOpts) {
     },
     // Dodana opcja dla progress baru
     progressBar: false,
-    arrows: false
+    arrows: true
   };
 
   // 3) Merge the default options with userOpts
